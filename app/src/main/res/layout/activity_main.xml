@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+    <TextView
+        android:text="DANH SÁCH BÀI LAB"
+        android:textColor="#BF360C"
+        android:fontFamily="@font/hobostd"
+        android:textSize="30sp"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:padding="10dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <LinearLayout
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Button
+            android:id="@+id/btnLab1"
+            android:text="Lab 1"
+            android:layout_marginEnd="5dp"
+            android:backgroundTint="#FF6F00"
+            android:layout_width="100dp"
+            android:layout_height="50dp"/>
+        <Button
+            android:id="@+id/btnLab2"
+            android:text="Lab 2"
+            android:layout_marginEnd="5dp"
+            android:layout_marginStart="5dp"
+            android:backgroundTint="#1BE6D1"
+            android:layout_width="100dp"
+            android:layout_height="50dp"/>
+        <Button
+            android:id="@+id/btnLab3"
+            android:text="Lab 3"
+            android:layout_marginStart="5dp"
+            android:backgroundTint="#EA0404"
+            android:layout_width="100dp"
+            android:layout_height="50dp"/>
+    </LinearLayout>
+    <LinearLayout
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Button
+            android:id="@+id/btnLab4"
+            android:text="Lab 4"
+            android:layout_marginEnd="5dp"
+            android:backgroundTint="#0DE14A"
+            android:layout_width="100dp"
+            android:layout_height="50dp"/>
+        <Button
+            android:id="@+id/btnLab5"
+            android:text="Lab 5"
+            android:layout_marginEnd="5dp"
+            android:layout_marginStart="5dp"
+            android:backgroundTint="#FF5252"
+            android:layout_width="100dp"
+            android:layout_height="50dp"/>
+
+    </LinearLayout>
+    <LinearLayout
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Button
+            android:id="@+id/btnLab6"
+            android:text="Lab 6"
+            android:layout_marginEnd="5dp"
+            android:backgroundTint="#FDD835"
+            android:layout_width="100dp"
+            android:layout_height="50dp"/>
+        <Button
+            android:id="@+id/btnLab7"
+            android:text="Lab 7"
+            android:layout_marginStart="5dp"
+            android:layout_marginEnd="5dp"
+            android:backgroundTint="#1D898E"
+            android:layout_width="100dp"
+            android:layout_height="50dp"/>
+        <Button
+            android:id="@+id/btnLab8"
+            android:text="Lab 8"
+            android:layout_marginStart="5dp"
+            android:backgroundTint="#3F971E"
+            android:layout_width="100dp"
+            android:layout_height="50dp"/>
+    </LinearLayout>
+    <pl.droidsonroids.gif.GifImageView
+        android:src="@drawable/school_gif"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>

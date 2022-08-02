@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/FPOLY/ANDROID NC/BAILAB/PS19597_NguyenTrongHieu_Lab/app/src/main/res/drawable/anim_list.xml" value="0.21614583333333334" />
+        <entry key="..\:/FPOLY/ANDROID NC/BAILAB/PS19597_NguyenTrongHieu_Lab/app/src/main/res/drawable/button_gradian.xml" value="0.21614583333333334" />
+        <entry key="..\:/FPOLY/ANDROID NC/BAILAB/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/activity_lab1.xml" value="0.17481884057971014" />
+        <entry key="..\:/FPOLY/ANDROID NC/BAILAB/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/activity_lab1_bai12.xml" value="0.17481884057971014" />
+        <entry key="..\:/FPOLY/ANDROID NC/BAILAB/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/activity_lab1_bai3.xml" value="0.17481884057971014" />
+        <entry key="..\:/FPOLY/ANDROID NC/BAILAB/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/activity_lab2.xml" value="0.17481884057971014" />
+        <entry key="..\:/FPOLY/ANDROID NC/BAILAB/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/activity_lab2_bai1.xml" value="0.15443840579710144" />
+        <entry key="..\:/FPOLY/ANDROID NC/BAILAB/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/activity_lab2_bai2.xml" value="0.15443840579710144" />
+        <entry key="..\:/FPOLY/ANDROID NC/BAILAB/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/activity_lab2_bai3.xml" value="0.15443840579710144" />
+        <entry key="..\:/FPOLY/ANDROID NC/BAILAB/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/activity_lab3.xml" value="0.17481884057971014" />
+        <entry key="..\:/FPOLY/ANDROID NC/BAILAB/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/activity_lab3_bai1.xml" value="0.13179347826086957" />
+        <entry key="..\:/FPOLY/ANDROID NC/BAILAB/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/activity_lab3_bai2.xml" value="0.14130434782608695" />
+        <entry key="..\:/FPOLY/ANDROID NC/BAILAB/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/activity_lab4.xml" value="0.17481884057971014" />
+        <entry key="..\:/FPOLY/ANDROID NC/BAILAB/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/activity_lab4_bai1.xml" value="0.12273550724637682" />
+        <entry key="..\:/FPOLY/ANDROID NC/BAILAB/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/activity_lab4_bai2.xml" value="0.12273550724637682" />
+        <entry key="..\:/FPOLY/ANDROID NC/BAILAB/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/activity_lab5.xml" value="0.17481884057971014" />
+        <entry key="..\:/FPOLY/ANDROID NC/BAILAB/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/activity_lab5_xem_tin.xml" value="0.17572463768115942" />
+        <entry key="..\:/FPOLY/ANDROID NC/BAILAB/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/activity_lab6.xml" value="0.17481884057971014" />
+        <entry key="..\:/FPOLY/ANDROID NC/BAILAB/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/activity_lab7.xml" value="0.17481884057971014" />
+        <entry key="..\:/FPOLY/ANDROID NC/BAILAB/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/activity_lab7_bai1.xml" value="0.1503623188405797" />
+        <entry key="..\:/FPOLY/ANDROID NC/BAILAB/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/activity_lab7_bai2.xml" value="0.1503623188405797" />
+        <entry key="..\:/FPOLY/ANDROID NC/BAILAB/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/activity_lab7_bai3.xml" value="0.1503623188405797" />
+        <entry key="..\:/FPOLY/ANDROID NC/BAILAB/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/activity_lab8.xml" value="0.17481884057971014" />
+        <entry key="..\:/FPOLY/ANDROID NC/BAILAB/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/activity_lab8_bai1.xml" value="0.17572463768115942" />
+        <entry key="..\:/FPOLY/ANDROID NC/BAILAB/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/activity_lab8_bai2.xml" value="0.16621376811594202" />
+        <entry key="..\:/FPOLY/ANDROID NC/BAILAB/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/activity_main.xml" value="0.17481884057971014" />
+        <entry key="..\:/FPOLY/ANDROID NC/BAILAB/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/activity_tintheoloai.xml" value="0.17572463768115942" />
+        <entry key="..\:/FPOLY/ANDROID NC/BAILAB/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/fragment_media_photo.xml" value="0.16259057971014493" />
+        <entry key="..\:/FPOLY/ANDROID NC/BAILAB/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/fragment_photo.xml" value="0.1" />
+        <entry key="..\:/FPOLY/ANDROID NC/BAILAB/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/fragment_s_m_s.xml" value="0.14130434782608695" />
+        <entry key="..\:/FPOLY/ANDROID NC/BAILAB/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/item_lab3bai1.xml" value="0.13179347826086957" />
+        <entry key="..\:/FPOLY/ANDROID NC/BAILAB/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/item_lab3bai2_photo.xml" value="0.16259057971014493" />
+        <entry key="..\:/FPOLY/ANDROID NC/BAILAB/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/item_lab5_tintheoloai.xml" value="0.17572463768115942" />
+        <entry key="..\:/FPOLY/ANDROID NC/BAILAB/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/item_lab8bai1.xml" value="0.17572463768115942" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

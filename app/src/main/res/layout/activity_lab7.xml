@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".Lab7.Lab7">
+
+    <Button
+        android:id="@+id/btnLab7Bai1"
+        android:text="Bài 1"
+        android:layout_marginTop="30dp"
+        app:backgroundTint="@null"
+        android:textColor="@color/black"
+        android:background="@drawable/button_gradian"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"/>
+    <Button
+        android:id="@+id/btnLab7Bai2"
+        android:text="Bài 2"
+        android:layout_marginTop="30dp"
+        app:backgroundTint="@null"
+        android:textColor="@color/black"
+        android:background="@drawable/button_gradian"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"/>
+    <Button
+        android:id="@+id/btnLab7Bai3"
+        android:text="Bài 3"
+        android:layout_marginTop="30dp"
+        app:backgroundTint="@null"
+        android:textColor="@color/black"
+        android:background="@drawable/button_gradian"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"/>
+</LinearLayout>

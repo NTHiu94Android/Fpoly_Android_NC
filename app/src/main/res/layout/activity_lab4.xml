@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:gravity="center|top"
+    tools:context=".Lab4.Lab4">
+    <Button
+        android:id="@+id/btnLab4Bai1"
+        android:text="Bài 1"
+        android:layout_marginTop="30dp"
+        app:backgroundTint="@null"
+        android:textColor="@color/black"
+        android:background="@drawable/button_gradian"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"/>
+    <Button
+        android:id="@+id/btnLab4Bai2"
+        android:text="Bài 2"
+        android:layout_marginTop="10dp"
+        app:backgroundTint="@null"
+        android:textColor="#D50000"
+        android:background="@drawable/button_gradian"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"/>
+</LinearLayout>
